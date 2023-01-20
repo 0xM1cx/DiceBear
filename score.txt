@@ -1,0 +1,158 @@
+
+===================================================
+Score Per Game:
+
+
+
+			Game 1 Score: 0
+			Captial: 900
+
+
+			Game 2 Score: 0
+			Captial: 600
+
+
+			Game 3 Score: 1
+			Captial: 1000
+
+
+			Game 4 Score: 1
+			Captial: 600
+
+			WIN RATE: 0
+
+
+===================================================
+Score Per Game:
+
+===================================================
+Score Per Game:
+
+
+
+			Game 0 Score: 0
+			Captial: 1000
+===================================================
+Score Per Game:
+
+===================================================
+Score Per Game:
+
+
+
+			Game 0 Score: 0
+			Captial: 1000
+===================================================
+Score Per Game:
+
+===================================================
+Score Per Game:
+
+===================================================
+Score Per Game:
+
+
+
+			Game 1 Score: 0
+			Captial: 600
+
+
+			Game 2 Score: 0
+			Captial: 500
+
+
+			Game 3 Score: 1
+			Captial: 550
+
+
+			Game 4 Score: 1
+			Captial: 0
+
+WIN RATE: 0
+
+
+
+
+			Game 4 Score: 1
+			Captial: 0
+===================================================
+Score Per Game:
+
+
+
+			Game 1 Score: 1
+			Captial: 1550
+
+
+			Game 2 Score: 2
+			Captial: 1650
+
+
+			Game 3 Score: 2
+			Captial: 650
+
+
+			Game 4 Score: 2
+			Captial: 450
+
+
+			Game 5 Score: 3
+			Captial: 500
+
+
+			Game 6 Score: 3
+			Captial: 460
+
+
+			Game 7 Score: 4
+			Captial: 860
+
+
+			Game 8 Score: 5
+			Captial: 1360
+
+
+			Game 9 Score: 6
+			Captial: 2360
+
+
+			Game 10 Score: 6
+			Captial: 2060
+
+
+			Game 11 Score: 7
+			Captial: 3060
+
+			WIN RATE: 0
+
+
+===================================================
+Score Per Game:
+
+===================================================
+Score Per Game:
+
+
+
+			Game 1 Score: 0
+			Captial: 900
+
+
+			Game 2 Score: 0
+			Captial: 600
+
+
+			Game 3 Score: 0
+			Captial: 530
+
+
+			Game 4 Score: 1
+			Captial: 630
+
+
+			Game 5 Score: 2
+			Captial: 1130
+
+
+			Game 6 Score: 2
+			Captial: 930
